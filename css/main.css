@@ -1,0 +1,18 @@
+@import "./mediaa/setting.css";
+@import url(./mediaa/xl.css) screen and (min-width:1200px);
+@import url(./mediaa/lg.css) screen and (min-width:1024px) and (max-width:1200px);
+@import url(./mediaa/md.css) screen and (min-width:768px) and (max-width:1024px);
+@import url(./mediaa/sm.css) screen and (min-width:540px) and (max-width:768px);
+@import url(./mediaa/xs.css) screen and (max-width:540px);
+
+
+
+
+
+
+
+
+
+
+
+
